@@ -78,6 +78,14 @@ h1 {
     text-align:center;
 }
 
+span {
+    font-size: 50px;
+}
+
+button.ui-btn.ui-btn-a {
+    outline: none;
+}
+
 .event {
     border-radius:4px;
     -webkit-border-radius:4px;
